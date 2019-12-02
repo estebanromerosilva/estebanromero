@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+sitoweb
+db.sqlite3
+.DS_Store
