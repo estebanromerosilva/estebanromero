@@ -4,7 +4,7 @@ cffi==1.13.0
 chardet==3.0.4
 conda==4.7.12
 conda-package-handling==1.6.0
-cryptography==2.8
+cryptography==3.2
 defusedxml==0.6.0
 Django==2.2.7
 django-crispy-forms==1.8.1
