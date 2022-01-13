@@ -12,7 +12,7 @@ djangorestframework==3.10.3
 idna==2.8
 menuinst==1.4.16
 oauthlib==3.1.0
-Pillow==6.2.1
+Pillow==9.0.0
 pycosat==0.6.3
 pycparser==2.19
 PyJWT==1.7.1
